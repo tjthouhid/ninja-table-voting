@@ -1,0 +1,1 @@
+# ninja-table-voting
